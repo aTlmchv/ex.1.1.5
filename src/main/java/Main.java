@@ -1,5 +1,3 @@
-
-import Util.Util;
 import dao.UserDao;
 import dao.UserDaoHibernateImpl;
 
